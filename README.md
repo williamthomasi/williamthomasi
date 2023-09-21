@@ -1,13 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-## 😄 Hi There! I'm Eva Tavares
-## 😄 Olá, meu nome é <strong>Eva Tavares</strong>!
+## 😄 Hello There! I'm William Thomasi 
+## 😄 Olá, meu nome é <strong>William Thomasi </strong>!
 
-📚 Desenvolvedora Full Stack pelo Programa Starter 12º edição Web Full Stack Developer - GrowDev.<br>
-📚Estudante de Análise e Desenvolvimento de Sistemas - UNIESP.<br> 
-🎓Graduação em Bacharelado e Licenciatura em Música, com habilitação em práticas interpretativas em oboé - UFPB.<br>
-🔬 Participei de grupos de pesquisa de iniciação científica, docência e extensão dentro da Universidade Federal da Paraíba.<br> 
-👩‍🏫 Atuo como professora de oboé no Programa de Inclusão Através da Música e das Artes (PRIMA).<br> 
+📚 Desenvolvedor Full Stack pelo Programa Starter 17º edição Web Full Stack Developer - GrowDev.<br>
+📚Estudante  Desenvolvimento Web- Anhanguera.<br> 
+🎓 Bacharel em Direito  - UFN.<br
+🎓 Especialista Em Direito Publico  - Esmesc.<br                            
 
 🟢💻 Atualmente estou em transição de carreira para a área de tecnologia, desenvolvimento Web Full Stack.
 
@@ -16,19 +15,19 @@
 ----
   
 <div align="center">
-  <a href="https://github.com/EvaTavares">
+  <a href="https://github.com/williamthomasi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamthomasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamthomasi&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Eva-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eva-React" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Eva-React" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eva-HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eva-CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eva-PostgreSql" height="50" width="80" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=4b56ec">
-  <img align="center" alt="Eva-NodeJs" height="50" width="80" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=4b56ec">
+  <img align="center" alt="Will-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Will-React" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Will-React" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Will-HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Will-CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Will-PostgreSql" height="50" width="80" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=4b56ec">
+  <img align="center" alt="Will-NodeJs" height="50" width="80" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=4b56ec">
 </div>
 
 <h3 style="display: inline_block" align="center">:earth_americas: &nbsp;Onde me encontrar: </h3> 
@@ -40,4 +39,4 @@
   <br>   
 </div>
  <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A1506D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
