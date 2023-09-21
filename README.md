@@ -5,8 +5,8 @@
 
 📚 Desenvolvedor Full Stack pelo Programa Starter 17º edição Web Full Stack Developer - GrowDev.<br>
 📚Estudante  Desenvolvimento Web- Anhanguera.<br> 
-🎓 Bacharel em Direito  - UFN.<br
-🎓 Especialista Em Direito Publico  - Esmesc.<br                            
+🎓 Bacharel em Direito  - UFN.<br>
+🎓 Especialista Em Direito Publico  - Esmesc.<br>                            
 
 🟢💻 Atualmente estou em transição de carreira para a área de tecnologia, desenvolvimento Web Full Stack.
 
